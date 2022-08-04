@@ -1,0 +1,16 @@
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.exe
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.deps.json
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.runtimeconfig.json
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.runtimeconfig.dev.json
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.dll
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\ref\Animaless.dll
+C:\Users\prsolucionesti1\source\repos\Animaless\bin\Debug\net5.0\Animaless.pdb
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.csproj.AssemblyReference.cache
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.AssemblyInfoInputs.cache
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.AssemblyInfo.cs
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.csproj.CoreCompileInputs.cache
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.dll
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\ref\Animaless.dll
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.pdb
+C:\Users\prsolucionesti1\source\repos\Animaless\obj\Debug\net5.0\Animaless.genruntimeconfig.cache
